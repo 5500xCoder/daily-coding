@@ -1,6 +1,4 @@
 
-package CodeForce;
-
 import java.util.*;
 
 class cf3_231A_Team {
